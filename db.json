@@ -25,8 +25,8 @@
       "details": "Python is a general-purpose programming language used in various domains, including web development. Frameworks like Django and Flask make web development in Python efficient and scalable. Django, a high-level web framework, emphasizes DRY (Don't Repeat Yourself) principles and includes built-in features like an ORM (Object-Relational Mapping) system and an admin interface. Flask, a microframework, is lightweight and provides flexibility, making it suitable for smaller projects"
     },
     {
-      "title": "Web dev",
-      "details": "Moreover, web development is not limited to desktop computers but also extends to mobile devices. With the increasing use of smartphones and tablets, web developers need to ensure that websites are responsive and optimized for different screen sizes. This involves implementing responsive design techniques and utilizing mobile-friendly frameworks to provide a seamless user experience across various devices.",
+      "title": "Front-end",
+      "details": "Front-end development, also known as client-side development, refers to the process of creating the visual and interactive components of a website or web application that users directly interact with. It involves the use of languages such as HTML, CSS, and JavaScript. HTML provides the structural foundation of a webpage, defining elements like headings, paragraphs, and images. CSS, or Cascading Style Sheets, is responsible for styling and layout, determining how the content appears on the screen. JavaScript, a dynamic scripting language, adds interactivity and responsiveness to the front end, allowing developers to create features like form validation, animations, and real-time updates without requiring a page reload.",
       "category": "Todo",
       "id": 8
     },
