@@ -1,13 +1,13 @@
 {
   "notes": [
     {
-      "id": 2,
+      "id": 6,
       "title": "HTML (Hypertext Markup Language)",
       "category": "Work",
       "details": "HTML is the fundamental building block of the web. It provides the structure for web pages, defining elements such as headings, paragraphs, links, images, and more. HTML is essential for creating the content and layout of a webpage, forming the backbone upon which other languages and technologies build."
     },
     {
-      "id": 3,
+      "id": 5,
       "title": "CSS (Cascading Style Sheets)",
       "category": "Shopping",
       "details": "CSS complements HTML by providing styling and presentation. It allows developers to control the appearance of HTML elements, defining aspects like colors, fonts, spacing, and layout. CSS enables the separation of content and design, enhancing the visual appeal and responsiveness of websites across different devices."
@@ -19,7 +19,7 @@
       "details": "JavaScript is a versatile scripting language that adds interactivity and dynamic behavior to web pages. It runs on the client side, allowing developers to create responsive user interfaces, handle user input, and manipulate the content of a webpage in real-time. JavaScript is a cornerstone of modern web development, and with the advent of Node.js, it can now also be used on the server side."
     },
     {
-      "id": 5,
+      "id": 3,
       "title": "Python",
       "category": "Shopping",
       "details": "Python is a general-purpose programming language used in various domains, including web development. Frameworks like Django and Flask make web development in Python efficient and scalable. Django, a high-level web framework, emphasizes DRY (Don't Repeat Yourself) principles and includes built-in features like an ORM (Object-Relational Mapping) system and an admin interface. Flask, a microframework, is lightweight and provides flexibility, making it suitable for smaller projects"
@@ -28,19 +28,19 @@
       "title": "Front-end",
       "details": "Front-end development, also known as client-side development, refers to the process of creating the visual and interactive components of a website or web application that users directly interact with. It involves the use of languages such as HTML, CSS, and JavaScript. HTML provides the structural foundation of a webpage, defining elements like headings, paragraphs, and images. CSS, or Cascading Style Sheets, is responsible for styling and layout, determining how the content appears on the screen. JavaScript, a dynamic scripting language, adds interactivity and responsiveness to the front end, allowing developers to create features like form validation, animations, and real-time updates without requiring a page reload.",
       "category": "Todo",
-      "id": 8
+      "id": 7
     },
     {
       "title": "Ruby",
       "details": "Ruby on Rails, commonly known as Rails, is a web application framework written in the Ruby programming language. Rails follows the convention over configuration and don't repeat yourself (DRY) principles, emphasizing productivity and simplicity. It includes features like ActiveRecord for database interactions, scaffolding for rapid prototyping, and convention-based configuration, making it a popular choice for web developers.",
       "category": "Work",
-      "id": 11
+      "id": 2
     },
     {
       "title": "PHP",
       "details": "PHP is a server-side scripting language widely used for web development. It is embedded in HTML code and executed on the server, generating dynamic web pages. PHP is known for its simplicity, versatility, and integration capabilities with various databases. Popular content management systems (CMS) like WordPress are built using PHP, showcasing its importance in the web development landscape.",
       "category": "Todo",
-      "id": 12
+      "id": 1
     }
   ]
 }
