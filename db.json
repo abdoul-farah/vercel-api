@@ -2,13 +2,13 @@
   "notes": [
     {
       "id": 6,
-      "title": "HTML (Hypertext Markup Language)",
+      "title": "HTML",
       "category": "Work",
       "details": "HTML is the fundamental building block of the web. It provides the structure for web pages, defining elements such as headings, paragraphs, links, images, and more. HTML is essential for creating the content and layout of a webpage, forming the backbone upon which other languages and technologies build."
     },
     {
       "id": 5,
-      "title": "CSS (Cascading Style Sheets)",
+      "title": "CSS",
       "category": "Shopping",
       "details": "CSS complements HTML by providing styling and presentation. It allows developers to control the appearance of HTML elements, defining aspects like colors, fonts, spacing, and layout. CSS enables the separation of content and design, enhancing the visual appeal and responsiveness of websites across different devices."
     },
